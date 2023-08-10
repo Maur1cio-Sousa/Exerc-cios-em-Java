@@ -65,7 +65,7 @@ public class Hamburgueria {
 		}
 		//fim condicional
 		
-		sc.close(); //caso de bom uso
+		sc.close(); //fehcar o Scanner é sempre uma boa prática
 
 	}
 
